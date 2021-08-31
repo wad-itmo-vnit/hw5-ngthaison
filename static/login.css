@@ -34,3 +34,8 @@ button {
     cursor: pointer;  
     border-radius: 5px; 
 }   
+
+p {
+    margin: 5px;
+    text-align: center;
+}
